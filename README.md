@@ -15,11 +15,6 @@ This project is an educational exploration of how blockchains work internally—
 
 ---
 
-## Project Structure
-
-
----
-
 ## Installation
 
 Clone the repository and install dependencies:
